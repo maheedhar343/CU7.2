@@ -7,21 +7,8 @@ create a react project
 stop the default project running
 npm install @reduxjs/toolkit react-redux
 make the changes in the code as for the file structure
-exp7.2/
-├── node_modules/
-├── public/
-├── src/
-│   ├── App.jsx
-│   ├── Cart.jsx
-│   ├── Products.jsx
-│   ├── cartSlice.js
-│   ├── store.js
-│   ├── main.jsx
-│   └── index.css
-├── index.html
-├── package.json
-└── vite.config.js
-run the project `npm run dev`
+<img width="433" height="463" alt="image" src="https://github.com/user-attachments/assets/ce7c7a1f-c1d0-484d-8f23-36aa75c373e6" />
+
 
 ## Usage
 
